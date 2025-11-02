@@ -351,3 +351,8 @@ def home():
 # For Vercel
 if __name__ == "__main__":
     app.run(debug=True)
+
+# For Vercel
+if __name__ == "__main__":
+
+    app.run(debug=True)
